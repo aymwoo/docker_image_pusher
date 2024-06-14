@@ -1,2 +1,12 @@
 nginx
 ollama/ollama
+discourse/base:2.0.20231218-0429
+alpine
+nextcloud
+ghcr.io/coder/coder:latest
+corentinth/it-tools
+drawdb
+yidadaa/chatgpt-next-web
+chenzhaoyu94/chatgpt-web
+redis:alpine
+ghcr.io/open-webui/open-webui
