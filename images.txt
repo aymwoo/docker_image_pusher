@@ -9,3 +9,4 @@ yidadaa/chatgpt-next-web
 chenzhaoyu94/chatgpt-web
 redis:alpine
 ghcr.io/open-webui/open-webui
+debian:bullseye-slim
